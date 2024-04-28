@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on vslam. 
-- 🌱 I’m currently learning computer networks and operating system.
-- 💬 Ask me about how to make a lightweight slam system
+- 🔭 I’m currently working on emulating risc-v core. 
+- 🌱 I’m currently learning operating system.
+- 💬 Ask me about how to make a rv64G emulator
 - 📫 How to reach me: master.tabbleman[at]gmail[dot]com 
 - ⚡ TODO Fun fact: [my bilibili channel]()
 <!--
